@@ -1,2 +1,2 @@
-# Machine-Learning-Banknote-Authentication
+# Machine Learning:Banknote Authentication
 Machine Learning Project
