@@ -1,6 +1,7 @@
-# Machine Learning:Banknote Authentication
-Machine Learning Project
+# Machine Learning: Banknote Authentication
+### Machine Learning Project
 ### Chaitanya Bolla and Eshka-ne Kumar
+
 
 ## UCI Dataset: 
 https://archive.ics.uci.edu/ml/datasets/banknote+authentication
