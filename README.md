@@ -11,5 +11,6 @@ http://docs.aws.amazon.com/machine-learning/latest/dg/cross-validation.html
 http://seaborn.pydata.org/generated/seaborn.pairplot.html
 http://scikit-learn.org/stable/modules/preprocessing.html
 http://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/
+http://users.ics.aalto.fi/jhollmen/dippa/node22.html
 
 ## Approach:
